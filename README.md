@@ -23,7 +23,6 @@ I was interested in using Airbnb Open Data from 2016 to understand:
 ## File Descriptions <a name="files"></a>
 
 + project1_seattle-airbnb_v2.ipynb : notebook with code and plots for the analysis
-+ calendar.csv and listings.csv : datasets used
 
 ## Results<a name="results"></a>
 
