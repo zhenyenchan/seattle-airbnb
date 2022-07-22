@@ -26,7 +26,7 @@ I was interested in using Airbnb Open Data from 2016 to understand:
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found in this [Medium post](link).
+The main findings of the code can be found in this [Medium post](https://medium.com/@yen_290/8-data-driven-insights-to-maximise-your-airbnb-earnings-in-seattle-bd2a696d3a1e).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 The dataset was sourced from AirBnB provided through [Kaggle](https://www.kaggle.com/datasets/airbnb/seattle?resource=download). Some of the functions used in the code were taken from exercises as part of the Udacity Data Scientist nanodegree 2022.
